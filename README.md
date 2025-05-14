@@ -1,3 +1,12 @@
+#Screenshots
+
+![inv1](https://github.com/user-attachments/assets/c617ca4d-b4fe-4eb5-bf99-661b046e652e)
+
+![inv2](https://github.com/user-attachments/assets/a0852584-93a8-47af-8a3f-7609c2af1380)
+
+![inv3](https://github.com/user-attachments/assets/993cebfd-3495-44b8-b249-0da38868b629)
+![inv4](https://github.com/user-attachments/assets/54770a59-92ec-4890-b2d8-34aaaca8a4c8)
+
 # InventoryApp in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) .
